@@ -1,0 +1,6 @@
+{
+  "name": "Android eCommerce App Builder",
+  "description": "A professional Android eCommerce App code generator and interactive emulator in Java and XML, complete with an MVVM architecture code explorer, interactive UI simulator, Admin Panel, Firebase layout, and Bangladeshi payment (bKash/Nagad/COD) simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
